@@ -1,0 +1,60 @@
+Reading in presidents from standard input.
+Finished Reading.
+
+Printing array of presidents.
+
+        Id: 123
+First Name: John
+ Last Name: Kennedy
+
+        Id: 172
+First Name: Lyndon
+ Last Name: Johnson
+
+        Id: 265
+First Name: Richard
+ Last Name: Nixon
+
+        Id: 306
+First Name: Gerald
+ Last Name: Ford
+
+        Id: 497
+First Name: Jimmy
+ Last Name: Carter
+
+        Id: 500
+First Name: Ronald
+ Last Name: Reagan
+
+        Id: 668
+First Name: George
+ Last Name: Bush
+
+        Id: 701
+First Name: Bill
+ Last Name: Clinton
+
+        Id: 888
+First Name: Barack
+ Last Name: Obama
+
+        Id: 939
+First Name: Donald
+ Last Name: Trump
+
+Checking given president ID's against known ID's.
+
+Checking ID: 497.
+Match: Jimmy Carter.
+
+Checking ID: 123.
+Match: John Kennedy.
+
+Checking ID: 666.
+No match.
+
+Checking ID: 888.
+Match: Barack Obama.
+
+Program Finished.
